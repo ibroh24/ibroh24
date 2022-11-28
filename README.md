@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/hammed-ibrahim-26a126124/">
+  <a href="https://www.linkedin.com/in/ibroh24/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/ibroh24">
