@@ -7,6 +7,9 @@
   <a href="https://twitter.com/ibroh24">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/9077347/ibrahim-hammed">
+    <img src="https://stackoverflow.com/users/flair/9077347.png" width="208" height="58" alt="profile for Ibrahim Hammed at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ibrahim Hammed at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=ibroh24&style=flat-square&color=blue" alt=""/>
