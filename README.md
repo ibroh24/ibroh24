@@ -20,7 +20,7 @@
 I am a Software Engineer from Nigeria.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
-- :zap: In my free time, I check coding problems on [stackoverflow](https://stackoverflow.com/users/9077347/ibroh24) and read tech articles.
+- :zap: In my free time, I check code problems on [stackoverflow](https://stackoverflow.com/users/9077347/ibroh24) and read tech articles.
 
 - :mailbox:How to reach me: ibroh24@gmail.com
 ---
